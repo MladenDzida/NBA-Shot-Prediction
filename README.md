@@ -1,1 +1,1 @@
-# UZOP-Projekt
+## UZOP-Projekt - NBA shot prediction
